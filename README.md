@@ -1,1 +1,0 @@
-https://julZanozina.github.io/rsschool-cv/cv
