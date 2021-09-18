@@ -1,22 +1,22 @@
-##Name
+## Name
 
 Zanozina Julia
 
-##Contacts
+## Contacts
 
 **email:** zanozina.julia@gmail.com
 
-##Information
+## Information
 
 **My Goal:** becoming a Frontend developer. Now I am QA Engineer with 3.5 years expirience of testing UI on maternity leave with strong desire to switch path. Have big expirience of working in team, great abilities to learn. 
 
-##Skiils
+## Skiils
 
 Have expirience with CSS, HTML and JS. Also used C and Java. Also know Twitter Bootstrap Framework, Fiddler, Browsersync.
 Worked by SCRUM on production. Know Agile and waterfall methodologies.
 Version control systems: GIT, svn.
 
-##Code example
+## Code example
 
 ```javascript
 function friend(friends){
@@ -29,8 +29,10 @@ function friend(friends){
   return myFriends;
 }
 ```
-##Education
+## Education
+
 Saratov State University Faculty of Mathematics and Mechanics
 
-##English
+## English
+
 Sertified B1
